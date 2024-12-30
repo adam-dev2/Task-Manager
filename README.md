@@ -1,0 +1,1 @@
+# deployed-veriosn-of-tesk-manager
